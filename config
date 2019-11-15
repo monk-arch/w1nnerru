@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/arch-monk/w1nnerru.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
